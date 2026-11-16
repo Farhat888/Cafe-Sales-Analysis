@@ -130,4 +130,6 @@ The original dataset is credited to its creator. The cleaning, analysis, visuali
 
 ## 10. Project Code License
 
-The project code license has not yet been selected. The dataset's CC BY-SA 4.0 license applies to the dataset under its terms; it does not automatically determine the license for this project's original code and analysis.
+The original code, notebooks, and project materials in this repository are licensed under the [MIT License](LICENSE).
+
+The third-party dataset remains subject to its own **CC BY-SA 4.0** license and attribution requirements. The MIT License does not replace or change the dataset's license.
